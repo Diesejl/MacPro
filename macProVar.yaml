@@ -1,0 +1,66 @@
+Main:
+  cfset:              /Library/Application\ Support/DrWeb/bin/drweb-ctl cfset
+  cfshow:             /Library/Application\ Support/DrWeb/bin/drweb-ctl cfshow
+  ctl:                /Library/Application\ Support/DrWeb/bin/drweb-ctl
+  openGui:            open /Applications/Dr.Web\ for\ macOS.app/
+  closeGui:           pkill /Applications/Dr.Web for macOS.app/Contents/MacOS/Dr.Web for macOS
+  server:             http://10.4.0.126
+
+BW:
+  adult:              xnxx.com
+  violence:           twin-towers.net
+  weapons:            colt.com
+  gambling:           goldfishka.com
+  drugs:              tweaker.org
+  obslang:            udaff.com
+  chats:              volchat.ru
+  terrorism:          www.deadhouse.ru
+  freeemail:          www.mail.com
+  socialnet:          vk.com
+  socialnet2:         facebook.com
+  copyright:          drweb-ru.com
+  knownvirus:         musicdownloadssite.com
+  notrcm:             torrentreactor.net
+  anonymizer:         cameleo.ru
+
+Category:
+  adult:              http://xnxx.com
+  violence:           http://twin-towers.net
+  weapons:            http://colt.com
+  gambling:           http://goldfishka.com
+  drugs:              http://tweaker.org
+  obslang:            http://udaff.com
+  chats:              http://volchat.ru
+  terrorism:          http://www.deadhouse.ru
+  freeemail:          http://www.mail.com
+  socialnet:          http://vk.com
+  socialnet2:         http://facebook.com
+  copyright:          http://drweb-ru.com
+  knownvirus:         http://musicdownloadssite.com
+  notrcm:             http://torrentreactor.net/
+  anonymizer:         http://cameleo.ru
+
+Sample:
+  EICAR:              http://www.eicar.org/download/eicar.com
+  EICAR_ZIP:          http://www.eicar.org/download/eicar_com.zip
+  curable:            http://10.4.0.126/share/malware_infected_curable.exe.file
+  incurable:          http://10.4.0.126/share/malware_infected_incurable.exe.file
+  suspicious:         http://10.4.0.126/share/malware_suspicious.vbs.file
+  adware:             http://10.4.0.126/share/malware_adware.exe.file
+  dialers:            http://10.4.0.126/share/malware_dialers.exe.file
+  jokes:              http://10.4.0.126/share/malware_jokes.vbs.file
+  hacktools:          http://10.4.0.126/share/malware_hacktools.exe.file
+  riskware:           http://10.4.0.126/share/malware_riskware.exe.file
+  email:              http://10.4.0.126/share/eicar.eml
+
+Extra:
+  suspicious:         /share/malware_suspicious.vbs.file
+  riskware:           /share/malware_riskware.exe.file
+  dialers:            /share/malware_dialers.exe.file
+  hacktools:          /share/malware_hacktools.exe.file
+  adware:             /share/malware_adware.exe.file
+  jokes:              /share/malware_jokes.vbs.file
+
+
+Text:
+  block:              Dr.Web не рекомендует посещать этот сайт
